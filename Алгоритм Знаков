@@ -1,0 +1,18 @@
+#include <stdio.h>
+#define MAXLINE  1000    /* указал максимальную длинну строки */
+
+int main() /* сам алгоритм вычисления количества символов в произвольно введённом тексте, воот.*/
+{
+    int i, c, chrs[255];
+    char line[MAXLINE], * p;
+
+    while ((p = fgets(line, MAXLINE, stdin)) != NULL) {
+        for (i = 0; i < 255; i++)
+            chrs[i] = 0;
+        for (; (c = *p) != '\0' && c != '\n'; p++)
+            chrs[c]++;
+        for (i = 0x20; i < 0x7F; i++)
+            printf("%#x - %c - %d\n", i, i, chrs[i]);
+    }
+    return 0;
+}
