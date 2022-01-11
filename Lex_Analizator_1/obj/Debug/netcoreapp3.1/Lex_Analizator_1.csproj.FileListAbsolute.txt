@@ -1,0 +1,13 @@
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\bin\Debug\netcoreapp3.1\Lex_Analizator_1.exe
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\bin\Debug\netcoreapp3.1\Lex_Analizator_1.deps.json
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\bin\Debug\netcoreapp3.1\Lex_Analizator_1.runtimeconfig.json
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\bin\Debug\netcoreapp3.1\Lex_Analizator_1.runtimeconfig.dev.json
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\bin\Debug\netcoreapp3.1\Lex_Analizator_1.dll
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\bin\Debug\netcoreapp3.1\Lex_Analizator_1.pdb
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\obj\Debug\netcoreapp3.1\Lex_Analizator_1.csprojAssemblyReference.cache
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\obj\Debug\netcoreapp3.1\Lex_Analizator_1.AssemblyInfoInputs.cache
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\obj\Debug\netcoreapp3.1\Lex_Analizator_1.AssemblyInfo.cs
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\obj\Debug\netcoreapp3.1\Lex_Analizator_1.csproj.CoreCompileInputs.cache
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\obj\Debug\netcoreapp3.1\Lex_Analizator_1.dll
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\obj\Debug\netcoreapp3.1\Lex_Analizator_1.pdb
+C:\Users\Savara\Desktop\1\Lex_Analizator_1\obj\Debug\netcoreapp3.1\Lex_Analizator_1.genruntimeconfig.cache
